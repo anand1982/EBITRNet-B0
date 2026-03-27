@@ -45,7 +45,7 @@ To ensure model robustness, we apply extensive transformations:
 
 ---
 ## Related Paper
-"Attention-Enhanced Hybrid CNN Architecture for Multi-Crop and Multi-Disease Classification: A Case Study on Papaya and Sugarcane" at Presented CVIP 2025 Conference IIT Ropar by Dr. Neeta Nain Department of CSE MNIT Jaipur (India) 302017
+"Attention-Enhanced Hybrid CNN Architecture for Multi-Crop and Multi-Disease Classification: A Case Study on Papaya and Sugarcane" at Presented CVIP 2025 Conference IIT Ropar by Dr. Neeta Nain (Professor) Department of CSE MNIT Jaipur (India) 302017
 
 ### Paper Citation
 Anand Kumar Jain and Neeta Nain, "Attention-Enhanced Hybrid CNN Architecture for Multi-Crop and Multi-Disease Classification: A Case Study on Papaya and Sugarcane" , 10th IAPR-Endorsed International Conference on Computer Vision and Image Processing CVIP 2025 by :Springer at IIT Ropar / 20 - 31 / 2025 ISBN: Paper ID: 682
