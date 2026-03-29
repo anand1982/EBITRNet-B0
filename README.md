@@ -50,6 +50,18 @@ To ensure model robustness, we apply extensive transformations:
 ### Paper Citation
 Anand Kumar Jain and Neeta Nain, "Attention-Enhanced Hybrid CNN Architecture for Multi-Crop and Multi-Disease Classification: A Case Study on Papaya and Sugarcane" , 10th IAPR-Endorsed International Conference on Computer Vision and Image Processing CVIP 2025 by :Springer at IIT Ropar / 20 - 31 / 2025 ISBN: Paper ID: 682
 
+### Others Related Paper Citation
+
+Jain, Anand Kumar, and Neeta Nain. "Mdtacnet: Mobilenet-densenet and transformer attention hybrid network for multi-crop and multi-disease classification." International Conference on Computer Analysis of Images and Patterns. Cham: Springer Nature Switzerland, 2025.
+
+Jain, Anand Kumar, Shivam Sharma, and Neeta Nain. "Multi-disease detection and classification of sugarcane leaves using transfer learning." 2024 11th International Conference on Soft Computing & Machine Intelligence (ISCMI). IEEE, 2024.
+
+Jain, Anand Kumar, Dakshita Sharma, and Neeta Nain. "Disease Detection and Classification of Rice Leaves Using Transfer Learning with Concatenate." International Conference on Machine Learning, Image Processing, Network Security and Data Sciences. Cham: Springer Nature Switzerland, 2024.
+
+Jain, Anand Kumar, and Neeta Nain. "Hybrid Deep Learning Framework for Cashew Leaf Disease Classification Using Model Concatenation." Technoarete Transactions on Advances in Computer Applications (TTACA) 4.2 (2025): 14-18.
+
+Jain, Anand Kumar, Konduru Harshavardhan, and Neeta Nain. "Multi crop Chilli and Rice Diseases Classification using Multi Concatenate of Models." 2025 12th International Conference on Soft Computing & Machine Intelligence (ISCMI). IEEE, 2025.
+
 ## 🚀 Installation & Usage
 
 ### 1. Clone the repository
